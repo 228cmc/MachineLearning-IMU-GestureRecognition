@@ -1,0 +1,14 @@
+RF+Aug few-shot (k=5, noise=2, mix=3)
+Accuracy: 0.9833 | F1-weighted: 0.9833 | F1-macro: 0.9833
+
+Classification Report:
+                 precision    recall  f1-score   support
+
+     bicep_curl       1.00      1.00      1.00        15
+    front_raise       0.94      1.00      0.97        15
+  lateral_raise       1.00      0.93      0.97        15
+tricep_pulldown       1.00      1.00      1.00        15
+
+       accuracy                           0.98        60
+      macro avg       0.98      0.98      0.98        60
+   weighted avg       0.98      0.98      0.98        60

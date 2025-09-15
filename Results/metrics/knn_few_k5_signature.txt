@@ -1,0 +1,14 @@
+KNN few-shot (k=5, n=5)
+Accuracy: 0.8833 | F1-weighted: 0.8816 | F1-macro: 0.8816
+
+Classification Report:
+                 precision    recall  f1-score   support
+
+     bicep_curl       1.00      0.93      0.97        15
+    front_raise       0.68      1.00      0.81        15
+  lateral_raise       1.00      0.60      0.75        15
+tricep_pulldown       1.00      1.00      1.00        15
+
+       accuracy                           0.88        60
+      macro avg       0.92      0.88      0.88        60
+   weighted avg       0.92      0.88      0.88        60

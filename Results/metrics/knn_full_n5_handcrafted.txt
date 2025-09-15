@@ -1,0 +1,14 @@
+KNN full (n=5)
+Accuracy: 0.9375 | F1-weighted: 0.9341 | F1-macro: 0.9273
+
+Classification Report:
+                 precision    recall  f1-score   support
+
+     bicep_curl       0.83      1.00      0.91         5
+    front_raise       1.00      1.00      1.00         6
+  lateral_raise       1.00      1.00      1.00         2
+tricep_pulldown       1.00      0.67      0.80         3
+
+       accuracy                           0.94        16
+      macro avg       0.96      0.92      0.93        16
+   weighted avg       0.95      0.94      0.93        16

@@ -1,0 +1,14 @@
+RF baseline
+Accuracy: 0.9375 | F1-weighted: 0.9295 | F1-macro: 0.8974
+
+Classification Report:
+                 precision    recall  f1-score   support
+
+     bicep_curl       1.00      1.00      1.00         5
+    front_raise       0.86      1.00      0.92         6
+  lateral_raise       1.00      0.50      0.67         2
+tricep_pulldown       1.00      1.00      1.00         3
+
+       accuracy                           0.94        16
+      macro avg       0.96      0.88      0.90        16
+   weighted avg       0.95      0.94      0.93        16
