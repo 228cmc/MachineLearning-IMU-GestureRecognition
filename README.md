@@ -1,5 +1,3 @@
-
-```markdown
 # IMU-Based Gesture Recognition under Limited Data
 
 ## Introduction
